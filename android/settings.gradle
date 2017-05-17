@@ -1,0 +1,3 @@
+rootProject.name = 'MobileCenter'
+
+include ':app'
