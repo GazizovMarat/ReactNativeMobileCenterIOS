@@ -15,8 +15,6 @@ import {
 
 var AppleHealthKit = require('react-native-apple-healthkit')
 
-
-
 export default class MobileCenter extends Component {
   constructor(props) {
     super(props)
